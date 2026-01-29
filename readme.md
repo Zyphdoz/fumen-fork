@@ -3,7 +3,8 @@ This is a slightly modified copy of the tetris diagram editor found at https://f
 I am not the original author but I made this copy so I could use it locally and add some quality of life features to it.
 
 Modifications:
-- Settings menu with configurable hotkeys 
+- Configurable hotkeys 
+- Setting to control number of rows in list view
 - includes `greyout.js`, `mirror.js` add-ons made by swng.
 - Auto Color add-on which automatically colors your blocks when it detects you have drawn a tetromino shape.
 - `english.js`, `greyout.js`, `mirror.js`, `frame.js`, `listing.js`, `autoColor.js` and `pfcode.js` add-ons are loaded automatically.

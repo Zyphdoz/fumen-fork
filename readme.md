@@ -5,7 +5,7 @@ I am not the original author but I made this copy so I could use it locally and 
 Modifications:
 - Configurable hotkeys 
 - Setting to control number of rows in list view
-- Show list view under editor. Clicking on a frame in that list view jumps to that frame in the editor.
+- Show list view under editor. Clicking on a frame in the list jumps to that frame in the editor.
 - includes `greyout.js`, `mirror.js` add-ons made by swng.
 - Auto Color add-on which automatically colors your blocks when it detects you have drawn a tetromino shape.
 - `english.js`, `greyout.js`, `mirror.js`, `frame.js`, `listing.js`, `autoColor.js` and `pfcode.js` add-ons are loaded automatically.
